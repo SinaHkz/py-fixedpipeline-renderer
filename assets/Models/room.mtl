@@ -1,0 +1,11 @@
+newmtl Floor
+map_Kd floor.png
+
+newmtl Front
+map_Kd wall.png
+
+newmtl Left
+map_Kd wall.png
+
+newmtl Right
+map_Kd wall.png
